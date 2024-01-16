@@ -81,7 +81,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 ```py
 apt install git
 apt install python3-pip
-git clone https://github.com/Sunilkumar1001005/Filestreambot-pro/fork
+git clone Greymattersbot/Filestreambot-pro:main
 cd Filestreambot-pro
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
